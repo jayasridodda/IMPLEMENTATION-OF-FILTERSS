@@ -155,28 +155,37 @@ plt.show()
 
 
 i) Using Averaging Filter
+
+
 ![Screenshot from 2023-09-27 11-13-18](https://github.com/jayasridodda/IMPLEMENTATION-OF-FILTERSS/assets/123259278/5b8dd709-1b08-4873-b41e-88074bbdab01)
 
-
-
 ii) Using Weighted Averaging Filter
+
+
 ![Screenshot from 2023-09-27 11-13-56](https://github.com/jayasridodda/IMPLEMENTATION-OF-FILTERSS/assets/123259278/722f9357-60bb-44e1-ba5f-2a966e517530)
 
-
 iii) Using Gaussian Filter
+
+
 ![Screenshot from 2023-09-27 11-14-27](https://github.com/jayasridodda/IMPLEMENTATION-OF-FILTERSS/assets/123259278/5ddd7bef-3efa-4599-9e7d-c4db721525f2)
 
 
 iv) Using Median Filter
+
+
 ![Screenshot from 2023-09-27 11-15-05](https://github.com/jayasridodda/IMPLEMENTATION-OF-FILTERSS/assets/123259278/aa447907-3252-459b-9d39-80e506e65231)
 
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+
+
 ![Screenshot from 2023-09-27 11-15-31](https://github.com/jayasridodda/IMPLEMENTATION-OF-FILTERSS/assets/123259278/8d6f47c1-bc5c-4528-b988-7973857df8f0)
 
 ii) Using Laplacian Operator
+
+
 ![Screenshot from 2023-09-27 11-16-40](https://github.com/jayasridodda/IMPLEMENTATION-OF-FILTERSS/assets/123259278/787946c4-7b29-43f8-afc5-41a0592e434f)
 
 
